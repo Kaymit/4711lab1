@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo "I am a god!";
+            echo "I am a god!!!";
+            echo "Makin' changes...";
         ?>
     </body>
 </html>
